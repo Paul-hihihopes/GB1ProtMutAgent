@@ -1,0 +1,2631 @@
+{
+  "n_triples": 375,
+  "n_nodes": 134,
+  "triples": [
+    {
+      "head": "A",
+      "relation": "has_property",
+      "tail": "疏水/非极性",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "A",
+      "relation": "has_property",
+      "tail": "疏水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "A",
+      "relation": "has_property",
+      "tail": "小体积(<110Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "C",
+      "relation": "has_property",
+      "tail": "极性不带电",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "C",
+      "relation": "has_property",
+      "tail": "疏水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "C",
+      "relation": "has_property",
+      "tail": "小体积(<110Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "D",
+      "relation": "has_property",
+      "tail": "负电荷",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "D",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "D",
+      "relation": "has_property",
+      "tail": "中等体积",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "E",
+      "relation": "has_property",
+      "tail": "负电荷",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "E",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "E",
+      "relation": "has_property",
+      "tail": "中等体积",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "F",
+      "relation": "has_property",
+      "tail": "疏水/非极性",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "F",
+      "relation": "has_property",
+      "tail": "疏水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "F",
+      "relation": "has_property",
+      "tail": "大体积(>160Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "F",
+      "relation": "has_property",
+      "tail": "芳香族",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "F",
+      "relation": "has_property",
+      "tail": "β股倾向强",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "G",
+      "relation": "has_property",
+      "tail": "疏水/非极性",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "G",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "G",
+      "relation": "has_property",
+      "tail": "小体积(<110Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "H",
+      "relation": "has_property",
+      "tail": "正电荷",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "H",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "H",
+      "relation": "has_property",
+      "tail": "中等体积",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "H",
+      "relation": "has_property",
+      "tail": "芳香族",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "I",
+      "relation": "has_property",
+      "tail": "疏水/非极性",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "I",
+      "relation": "has_property",
+      "tail": "疏水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "I",
+      "relation": "has_property",
+      "tail": "大体积(>160Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "I",
+      "relation": "has_property",
+      "tail": "β股倾向强",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "K",
+      "relation": "has_property",
+      "tail": "正电荷",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "K",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "K",
+      "relation": "has_property",
+      "tail": "大体积(>160Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "L",
+      "relation": "has_property",
+      "tail": "疏水/非极性",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "L",
+      "relation": "has_property",
+      "tail": "疏水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "L",
+      "relation": "has_property",
+      "tail": "大体积(>160Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "L",
+      "relation": "has_property",
+      "tail": "β股倾向强",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "M",
+      "relation": "has_property",
+      "tail": "疏水/非极性",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "M",
+      "relation": "has_property",
+      "tail": "疏水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "M",
+      "relation": "has_property",
+      "tail": "大体积(>160Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "N",
+      "relation": "has_property",
+      "tail": "极性不带电",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "N",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "N",
+      "relation": "has_property",
+      "tail": "中等体积",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "P",
+      "relation": "has_property",
+      "tail": "疏水/非极性",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "P",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "P",
+      "relation": "has_property",
+      "tail": "中等体积",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Q",
+      "relation": "has_property",
+      "tail": "极性不带电",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Q",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Q",
+      "relation": "has_property",
+      "tail": "中等体积",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "R",
+      "relation": "has_property",
+      "tail": "正电荷",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "R",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "R",
+      "relation": "has_property",
+      "tail": "大体积(>160Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "S",
+      "relation": "has_property",
+      "tail": "极性不带电",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "S",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "S",
+      "relation": "has_property",
+      "tail": "小体积(<110Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "T",
+      "relation": "has_property",
+      "tail": "极性不带电",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "T",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "T",
+      "relation": "has_property",
+      "tail": "中等体积",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "V",
+      "relation": "has_property",
+      "tail": "疏水/非极性",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "V",
+      "relation": "has_property",
+      "tail": "疏水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "V",
+      "relation": "has_property",
+      "tail": "中等体积",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "V",
+      "relation": "has_property",
+      "tail": "β股倾向强",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "W",
+      "relation": "has_property",
+      "tail": "疏水/非极性",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "W",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "W",
+      "relation": "has_property",
+      "tail": "大体积(>160Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "W",
+      "relation": "has_property",
+      "tail": "芳香族",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "W",
+      "relation": "has_property",
+      "tail": "β股倾向强",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Y",
+      "relation": "has_property",
+      "tail": "极性不带电",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Y",
+      "relation": "has_property",
+      "tail": "亲水",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Y",
+      "relation": "has_property",
+      "tail": "大体积(>160Å³)",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Y",
+      "relation": "has_property",
+      "tail": "芳香族",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Y",
+      "relation": "has_property",
+      "tail": "β股倾向强",
+      "head_type": "AminoAcid",
+      "tail_type": "Property"
+    },
+    {
+      "head": "A",
+      "relation": "conservative_to",
+      "tail": "S",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D",
+      "relation": "conservative_to",
+      "tail": "E",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D",
+      "relation": "conservative_to",
+      "tail": "N",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "E",
+      "relation": "conservative_to",
+      "tail": "K",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "E",
+      "relation": "conservative_to",
+      "tail": "Q",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "F",
+      "relation": "conservative_to",
+      "tail": "W",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "F",
+      "relation": "conservative_to",
+      "tail": "Y",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "H",
+      "relation": "conservative_to",
+      "tail": "N",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "H",
+      "relation": "conservative_to",
+      "tail": "Y",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "I",
+      "relation": "conservative_to",
+      "tail": "L",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "I",
+      "relation": "conservative_to",
+      "tail": "M",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "I",
+      "relation": "conservative_to",
+      "tail": "V",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "K",
+      "relation": "conservative_to",
+      "tail": "Q",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "K",
+      "relation": "conservative_to",
+      "tail": "R",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "L",
+      "relation": "conservative_to",
+      "tail": "M",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "L",
+      "relation": "conservative_to",
+      "tail": "V",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "M",
+      "relation": "conservative_to",
+      "tail": "V",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "N",
+      "relation": "conservative_to",
+      "tail": "S",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "Q",
+      "relation": "conservative_to",
+      "tail": "R",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "S",
+      "relation": "conservative_to",
+      "tail": "T",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "W",
+      "relation": "conservative_to",
+      "tail": "Y",
+      "head_type": "AminoAcid",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "Pos39",
+      "relation": "located_in",
+      "tail": "α螺旋→β3 连接环 (37-41)",
+      "head_type": "Position",
+      "tail_type": "StructuralElement"
+    },
+    {
+      "head": "Pos39",
+      "relation": "has_property",
+      "tail": "部分埋藏",
+      "head_type": "Position",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Pos39",
+      "relation": "wild_type_is",
+      "tail": "V",
+      "head_type": "Position",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "Pos40",
+      "relation": "located_in",
+      "tail": "α螺旋→β3 连接环 (37-41)",
+      "head_type": "Position",
+      "tail_type": "StructuralElement"
+    },
+    {
+      "head": "Pos40",
+      "relation": "has_property",
+      "tail": "表面暴露",
+      "head_type": "Position",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Pos40",
+      "relation": "wild_type_is",
+      "tail": "D",
+      "head_type": "Position",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "Pos41",
+      "relation": "located_in",
+      "tail": "α螺旋→β3 连接环 (37-41)",
+      "head_type": "Position",
+      "tail_type": "StructuralElement"
+    },
+    {
+      "head": "Pos41",
+      "relation": "has_property",
+      "tail": "主链受限",
+      "head_type": "Position",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Pos41",
+      "relation": "wild_type_is",
+      "tail": "G",
+      "head_type": "Position",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "Pos54",
+      "relation": "located_in",
+      "tail": "β4 折叠股 (51-55)",
+      "head_type": "Position",
+      "tail_type": "StructuralElement"
+    },
+    {
+      "head": "Pos54",
+      "relation": "has_property",
+      "tail": "埋藏于疏水核",
+      "head_type": "Position",
+      "tail_type": "Property"
+    },
+    {
+      "head": "Pos54",
+      "relation": "wild_type_is",
+      "tail": "V",
+      "head_type": "Position",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39A",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39A",
+      "relation": "introduces",
+      "tail": "A",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39A",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39C",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39C",
+      "relation": "introduces",
+      "tail": "C",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39C",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39D",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39D",
+      "relation": "introduces",
+      "tail": "D",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39D",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39E",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39E",
+      "relation": "introduces",
+      "tail": "E",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39E",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39F",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39F",
+      "relation": "introduces",
+      "tail": "F",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39F",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39G",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39G",
+      "relation": "introduces",
+      "tail": "G",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39G",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39H",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39H",
+      "relation": "introduces",
+      "tail": "H",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39H",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39I",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39I",
+      "relation": "introduces",
+      "tail": "I",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39I",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39K",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39K",
+      "relation": "introduces",
+      "tail": "K",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39K",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39L",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39L",
+      "relation": "introduces",
+      "tail": "L",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39L",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39M",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39M",
+      "relation": "introduces",
+      "tail": "M",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39M",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39N",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39N",
+      "relation": "introduces",
+      "tail": "N",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39N",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39P",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39P",
+      "relation": "introduces",
+      "tail": "P",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39P",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39Q",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39Q",
+      "relation": "introduces",
+      "tail": "Q",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39Q",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39R",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39R",
+      "relation": "introduces",
+      "tail": "R",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39R",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39S",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39S",
+      "relation": "introduces",
+      "tail": "S",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39S",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39T",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39T",
+      "relation": "introduces",
+      "tail": "T",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39T",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40A",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40A",
+      "relation": "introduces",
+      "tail": "A",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40A",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40C",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40C",
+      "relation": "introduces",
+      "tail": "C",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40C",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41A",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41A",
+      "relation": "introduces",
+      "tail": "A",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41A",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41C",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41C",
+      "relation": "introduces",
+      "tail": "C",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41C",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41D",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41D",
+      "relation": "introduces",
+      "tail": "D",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41D",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41E",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41E",
+      "relation": "introduces",
+      "tail": "E",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41E",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41F",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41F",
+      "relation": "introduces",
+      "tail": "F",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41F",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54A",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54A",
+      "relation": "introduces",
+      "tail": "A",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54A",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54C",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54C",
+      "relation": "introduces",
+      "tail": "C",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54C",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54D",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54D",
+      "relation": "introduces",
+      "tail": "D",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54D",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54E",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54E",
+      "relation": "introduces",
+      "tail": "E",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54E",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54F",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54F",
+      "relation": "introduces",
+      "tail": "F",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54F",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54G",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54G",
+      "relation": "introduces",
+      "tail": "G",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54G",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54H",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54H",
+      "relation": "introduces",
+      "tail": "H",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54H",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54I",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54I",
+      "relation": "introduces",
+      "tail": "I",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54I",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54K",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54K",
+      "relation": "introduces",
+      "tail": "K",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54K",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54L",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54L",
+      "relation": "introduces",
+      "tail": "L",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54L",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54M",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54M",
+      "relation": "introduces",
+      "tail": "M",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54M",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54N",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54N",
+      "relation": "introduces",
+      "tail": "N",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54N",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54P",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54P",
+      "relation": "introduces",
+      "tail": "P",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54P",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54Q",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54Q",
+      "relation": "introduces",
+      "tail": "Q",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54Q",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54R",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54R",
+      "relation": "introduces",
+      "tail": "R",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54R",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54S",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54S",
+      "relation": "introduces",
+      "tail": "S",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54S",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54T",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54T",
+      "relation": "introduces",
+      "tail": "T",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54T",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54W",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54W",
+      "relation": "introduces",
+      "tail": "W",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54W",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V54Y",
+      "relation": "occurs_at",
+      "tail": "Pos54",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V54Y",
+      "relation": "introduces",
+      "tail": "Y",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V54Y",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41H",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41H",
+      "relation": "introduces",
+      "tail": "H",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41H",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41I",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41I",
+      "relation": "introduces",
+      "tail": "I",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41I",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41K",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41K",
+      "relation": "introduces",
+      "tail": "K",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41K",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41L",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41L",
+      "relation": "introduces",
+      "tail": "L",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41L",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41M",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41M",
+      "relation": "introduces",
+      "tail": "M",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41M",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41N",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41N",
+      "relation": "introduces",
+      "tail": "N",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41N",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41P",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41P",
+      "relation": "introduces",
+      "tail": "P",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41P",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41Q",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41Q",
+      "relation": "introduces",
+      "tail": "Q",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41Q",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41R",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41R",
+      "relation": "introduces",
+      "tail": "R",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41R",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41S",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41S",
+      "relation": "introduces",
+      "tail": "S",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41S",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41T",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41T",
+      "relation": "introduces",
+      "tail": "T",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41T",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41V",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41V",
+      "relation": "introduces",
+      "tail": "V",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41V",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41W",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41W",
+      "relation": "introduces",
+      "tail": "W",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41W",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "G41Y",
+      "relation": "occurs_at",
+      "tail": "Pos41",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "G41Y",
+      "relation": "introduces",
+      "tail": "Y",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "G41Y",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40E",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40E",
+      "relation": "introduces",
+      "tail": "E",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40E",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40F",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40F",
+      "relation": "introduces",
+      "tail": "F",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40F",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40G",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40G",
+      "relation": "introduces",
+      "tail": "G",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40G",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40H",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40H",
+      "relation": "introduces",
+      "tail": "H",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40H",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40I",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40I",
+      "relation": "introduces",
+      "tail": "I",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40I",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40K",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40K",
+      "relation": "introduces",
+      "tail": "K",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40K",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40L",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40L",
+      "relation": "introduces",
+      "tail": "L",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40L",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40M",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40M",
+      "relation": "introduces",
+      "tail": "M",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40M",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40N",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40N",
+      "relation": "introduces",
+      "tail": "N",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40N",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40P",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40P",
+      "relation": "introduces",
+      "tail": "P",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40P",
+      "relation": "impairs",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40Q",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40Q",
+      "relation": "introduces",
+      "tail": "Q",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40Q",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40R",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40R",
+      "relation": "introduces",
+      "tail": "R",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40R",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40S",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40S",
+      "relation": "introduces",
+      "tail": "S",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40S",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40T",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40T",
+      "relation": "introduces",
+      "tail": "T",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40T",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40V",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40V",
+      "relation": "introduces",
+      "tail": "V",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40V",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40W",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40W",
+      "relation": "introduces",
+      "tail": "W",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40W",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "D40Y",
+      "relation": "occurs_at",
+      "tail": "Pos40",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "D40Y",
+      "relation": "introduces",
+      "tail": "Y",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "D40Y",
+      "relation": "improves",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39W",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39W",
+      "relation": "introduces",
+      "tail": "W",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39W",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "V39Y",
+      "relation": "occurs_at",
+      "tail": "Pos39",
+      "head_type": "Mutation",
+      "tail_type": "Position"
+    },
+    {
+      "head": "V39Y",
+      "relation": "introduces",
+      "tail": "Y",
+      "head_type": "Mutation",
+      "tail_type": "AminoAcid"
+    },
+    {
+      "head": "V39Y",
+      "relation": "abolishes",
+      "tail": "Fitness",
+      "head_type": "Mutation",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "VWGF",
+      "relation": "contains",
+      "tail": "D40W",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VWGF",
+      "relation": "contains",
+      "tail": "V54F",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VWGF",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "LYGV",
+      "relation": "contains",
+      "tail": "V39L",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "LYGV",
+      "relation": "contains",
+      "tail": "D40Y",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "LYGV",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "VWGM",
+      "relation": "contains",
+      "tail": "D40W",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VWGM",
+      "relation": "contains",
+      "tail": "V54M",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VWGM",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "VHGM",
+      "relation": "contains",
+      "tail": "D40H",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VHGM",
+      "relation": "contains",
+      "tail": "V54M",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VHGM",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "IYGV",
+      "relation": "contains",
+      "tail": "V39I",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "IYGV",
+      "relation": "contains",
+      "tail": "D40Y",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "IYGV",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "VWGC",
+      "relation": "contains",
+      "tail": "D40W",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VWGC",
+      "relation": "contains",
+      "tail": "V54C",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VWGC",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "VDAA",
+      "relation": "contains",
+      "tail": "G41A",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VDAA",
+      "relation": "contains",
+      "tail": "V54A",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VDAA",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "FYGV",
+      "relation": "contains",
+      "tail": "V39F",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "FYGV",
+      "relation": "contains",
+      "tail": "D40Y",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "FYGV",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "CYGV",
+      "relation": "contains",
+      "tail": "V39C",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "CYGV",
+      "relation": "contains",
+      "tail": "D40Y",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "CYGV",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "LWGV",
+      "relation": "contains",
+      "tail": "V39L",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "LWGV",
+      "relation": "contains",
+      "tail": "D40W",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "LWGV",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "VFGM",
+      "relation": "contains",
+      "tail": "D40F",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VFGM",
+      "relation": "contains",
+      "tail": "V54M",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VFGM",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "LFGV",
+      "relation": "contains",
+      "tail": "V39L",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "LFGV",
+      "relation": "contains",
+      "tail": "D40F",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "LFGV",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "VYGC",
+      "relation": "contains",
+      "tail": "D40Y",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VYGC",
+      "relation": "contains",
+      "tail": "V54C",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VYGC",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "VYGN",
+      "relation": "contains",
+      "tail": "D40Y",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VYGN",
+      "relation": "contains",
+      "tail": "V54N",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VYGN",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    },
+    {
+      "head": "VWGV",
+      "relation": "contains",
+      "tail": "D40W",
+      "head_type": "Variant",
+      "tail_type": "Mutation"
+    },
+    {
+      "head": "VWGV",
+      "relation": "has_phenotype",
+      "tail": "高适应度",
+      "head_type": "Variant",
+      "tail_type": "Phenotype"
+    }
+  ]
+}

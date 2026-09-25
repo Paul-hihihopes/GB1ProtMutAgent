@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/*.pkl
+data/raw/*.csv
+runs/
+**/experiment_incomplete.ipynb
+.runtime/
+/tests/
+/img/13_rescue_ablation.png
+/requirements-console.txt
+/requirements-lock.txt
+/img/

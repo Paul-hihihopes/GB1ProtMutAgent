@@ -1,0 +1,187 @@
+{
+  "dataset": "GB1 four-site combinatorial library (Wu et al., 2016)",
+  "protein": "Protein G domain B1 (GB1)",
+  "task": "提高 GB1 对人 IgG Fc 段的结合适应度 (binding fitness)",
+  "wt_sequence": "MQYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE",
+  "wt_combo": "VDGV",
+  "positions": [
+    39,
+    40,
+    41,
+    54
+  ],
+  "n_variants": 149361,
+  "space_size": 160000,
+  "coverage": 0.93350625,
+  "n_dead": 29477,
+  "fitness_max": 8.76196565571,
+  "fitness_median": 0.00338374487421,
+  "global_best": {
+    "variant": "FWAA",
+    "label": "V39F + D40W + G41A + V54A",
+    "fitness": 8.76196565571
+  },
+  "splits": {
+    "train": 1735,
+    "val": 433,
+    "test": 147193
+  },
+  "start_best": {
+    "variant": "VWGF",
+    "fitness": 5.3907325057
+  },
+  "best_model": "xgboost",
+  "model_metrics": {
+    "val": {
+      "n": 433.0,
+      "spearman": 0.9024527011576141,
+      "pearson": 0.9598064766166425,
+      "mse": 0.047002369028034965,
+      "rmse": 0.21680029757367716,
+      "mae": 0.15036535167745546,
+      "r2": 0.9205320404707052,
+      "recall@10": 0.8,
+      "precision@10": 0.8,
+      "max_true_in_top10": 0.7000811101481725,
+      "mean_true_in_top10": 0.5263259780411801,
+      "ndcg@10": 0.9925942254693174,
+      "recall@50": 0.88,
+      "precision@50": 0.88,
+      "max_true_in_top50": 0.7000811101481725,
+      "mean_true_in_top50": 0.20719457567431898,
+      "ndcg@50": 0.9868084064187173
+    },
+    "test": {
+      "n": 147193.0,
+      "spearman": 0.48934627574951944,
+      "pearson": 0.7047061484787607,
+      "mse": 0.15524627537946586,
+      "rmse": 0.3940130396058814,
+      "mae": 0.2870766270380971,
+      "r2": 0.2889317954015709,
+      "recall@10": 0.0,
+      "precision@10": 0.0,
+      "max_true_in_top10": 0.7620805066185661,
+      "mean_true_in_top10": 0.6344761451935804,
+      "ndcg@10": 0.9114753389213397,
+      "recall@50": 0.06,
+      "precision@50": 0.06,
+      "max_true_in_top50": 0.7620805066185661,
+      "mean_true_in_top50": 0.5972568250321583,
+      "ndcg@50": 0.9250570785568798,
+      "recall@100": 0.19,
+      "precision@100": 0.19,
+      "max_true_in_top100": 0.9060737401549946,
+      "mean_true_in_top100": 0.5627648725837168,
+      "ndcg@100": 0.9272192331639024
+    }
+  },
+  "structural_context": {
+    "39": {
+      "wt": "V",
+      "element": "α螺旋→β3 连接环 (37-41)",
+      "burial": "部分埋藏",
+      "note": "靠近 IgG Fc 结合界面边缘，疏水侧链有助于界面堆积，对体积变化中等敏感。"
+    },
+    "40": {
+      "wt": "D",
+      "element": "α螺旋→β3 连接环 (37-41)",
+      "burial": "表面暴露",
+      "note": "完全溶剂暴露的界面热点，野生型带负电；替换为大芳香残基常能新增结合界面接触。"
+    },
+    "41": {
+      "wt": "G",
+      "element": "α螺旋→β3 连接环 (37-41)",
+      "burial": "主链受限",
+      "note": "甘氨酸处于常规残基不利的主链二面角区域，任何侧链都可能造成局部张力，单点替换风险极高。"
+    },
+    "54": {
+      "wt": "V",
+      "element": "β4 折叠股 (51-55)",
+      "burial": "埋藏于疏水核",
+      "note": "位于 β 折叠内部，需要维持 β 股氢键与疏水堆积，忌引入脯氨酸或强极性残基。"
+    }
+  },
+  "n_rounds": 3,
+  "batch_size": 12,
+  "top_k": 5,
+  "seeds": [
+    11,
+    22,
+    33,
+    44,
+    55,
+    66,
+    77,
+    88
+  ],
+  "llm_backend": "api",
+  "llm_description": "OpenAI 兼容接口 · deepseek-flash @ https://api.deepseek.com/v1",
+  "llm_label": "deepseek-flash",
+  "llm_usage": {
+    "backend": "api",
+    "model": "deepseek-flash",
+    "total_calls": 33,
+    "llm_calls": 33,
+    "offline_fallbacks": 0,
+    "llm_ratio": 1.0,
+    "repaired": 0,
+    "truncated": 0,
+    "retries": 0,
+    "prompt_tokens": 58601,
+    "completion_tokens": 211382,
+    "reasoning_tokens": 191657
+  },
+  "llm_backend_replicates": "offline",
+  "replicate_agent_names": [
+    "Rule-Agent",
+    "Rule-Agent+KB"
+  ],
+  "main_agent_names": [
+    "LLM-Agent",
+    "LLM-Agent+KB"
+  ],
+  "llm_main_campaigns_per_strategy": 1,
+  "wt_sequence_representation": "56 aa GB1 domain; FLIP 265 aa construct retained in data/raw",
+  "structural_positions": {
+    "39": {
+      "wt": "V",
+      "element": "α螺旋→β3 连接环 (37-41)",
+      "burial": "部分埋藏",
+      "note": "靠近 IgG Fc 结合界面边缘，疏水侧链有助于界面堆积，对体积变化中等敏感。"
+    },
+    "40": {
+      "wt": "D",
+      "element": "α螺旋→β3 连接环 (37-41)",
+      "burial": "表面暴露",
+      "note": "完全溶剂暴露的界面热点，野生型带负电；替换为大芳香残基常能新增结合界面接触。"
+    },
+    "41": {
+      "wt": "G",
+      "element": "α螺旋→β3 连接环 (37-41)",
+      "burial": "主链受限",
+      "note": "甘氨酸处于常规残基不利的主链二面角区域，任何侧链都可能造成局部张力，单点替换风险极高。"
+    },
+    "54": {
+      "wt": "V",
+      "element": "β4 折叠股 (51-55)",
+      "burial": "埋藏于疏水核",
+      "note": "位于 β 折叠内部，需要维持 β 股氢键与疏水堆积，忌引入脯氨酸或强极性残基。"
+    }
+  },
+  "images": [
+    "01_fitness_distribution.png",
+    "02_position_aa_landscape.png",
+    "03_model_comparison.png",
+    "04_prediction_quality.png",
+    "05_feature_importance.png",
+    "06_amino_acid_knowledge.png",
+    "07_epistasis_analysis.png",
+    "08_knowledge_graph.png",
+    "09_campaign_curves.png",
+    "10_batch_quality.png",
+    "11_replicate_summary.png",
+    "12_position_focus.png",
+    "13_rescue_ablation.png"
+  ]
+}

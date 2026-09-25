@@ -1,0 +1,49 @@
+{
+  "created_at_utc": "2026-09-23T17:21:41.831079+00:00",
+  "main_backend": "api",
+  "allow_api_fallback": false,
+  "llm_model": "deepseek-flash",
+  "temperature": 0.3,
+  "main_seed": 42,
+  "replicate_seeds": [
+    11,
+    22,
+    33,
+    44,
+    55,
+    66,
+    77,
+    88
+  ],
+  "initial_assays": 2168,
+  "rounds": 3,
+  "batch_size": 12,
+  "model_kind": "xgboost",
+  "target_transform": "log10(fitness + 0.01)",
+  "python": "3.12.7",
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.5.1",
+    "xgboost": "3.4.0",
+    "matplotlib": "3.9.2",
+    "flask": "3.0.3",
+    "nbformat": "5.10.4",
+    "nbclient": "0.8.0"
+  },
+  "data_sha256": "85692d808dcd3ae54fa2ac31f4e590858d4582369b6c7b05df299b9b6c383bff",
+  "source_sha256": {
+    "src\\__init__.py": "a6b1f52d67d0b2b918c7ad660f0891e0837a5a4f2672beef6f52ff9100b94410",
+    "src\\agent.py": "4362f2fddaa806547b95d22157c1ecc164d8269b63c9ce70f594d63a55626d66",
+    "src\\baselines.py": "c463b32b572bfc381c839fd73072236dce84388ae2d3736ec5932be22e10595c",
+    "src\\config.py": "69facf6d9f11f3043f560334af9a615a7723fa6556963c46344630b1f4b10412",
+    "src\\data.py": "16f4ac7fe54cf0339d6503b485ed412e9ea234f72069f3c0d828749052284b71",
+    "src\\evolution.py": "99fe470f3dd063bffb13189af35bb280aafcf6391c0b2c335143a8275ac8e1cd",
+    "src\\features.py": "a13d7a80a04deb6b61ea61a70516ca7759b7c661c2f917ea6ec11f91a539a4d5",
+    "src\\knowledge.py": "c0ce36b63a2edf1d6640c881b55eadd46b1a1f7a9cd8d06079861b52df6b818f",
+    "src\\llm.py": "edbf25ba624ac97171eebee9966db1ca45e2c430190ad328a5a2c30807aa8535",
+    "src\\models.py": "113d362aed338968c5bd64bda95105a145f2c4f6e2229cc22517c9a6bbe3ec17",
+    "src\\schemas.py": "74a0063fb73bf48ddfcec12b1bfba1f6e048211c2856ca31c65dbe148d12515d"
+  }
+}
