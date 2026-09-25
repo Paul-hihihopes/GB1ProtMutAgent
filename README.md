@@ -6,10 +6,10 @@
 
 在项目根目录使用已安装依赖的 Python 运行。完整 Notebook 实验需要下方的requirements环境。模型推理和离线 Agent 无需 API 凭据，真实 LLM 调用需要网络及 `.env` 中的有效凭据。
 
-实验环境为 Windows、Python 3.12.7。`requirements-lock.txt` 记录生成随附结果时的直接依赖版本；`requirements.txt` 提供兼容范围。图表中文字体使用微软雅黑或黑体；其他系统需提供可用中文字体并在 `src/config.py` 中配置。建议在独立环境中执行：
+实验环境为 Windows、Python 3.12.7。建议在独立环境中执行：
 
 ```bash
-python -m pip install -r requirements-lock.txt
+python -m pip install -r requirements.txt
 python -m ipykernel install --user --name gb1-evolution --display-name "GB1 Evolution"
 python -m unittest discover -s tests -v
 ```
