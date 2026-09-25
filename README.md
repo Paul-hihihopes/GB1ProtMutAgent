@@ -40,7 +40,7 @@ python demo.py --backend offline
 
 菜单提供交互进化、fitness 预测和模型信息。输入起点后显示解析组合、突变记号、已测状态及实测或预测 fitness；选择 knowledge 与 batch size（4–24）运行一轮，查看五模块结果、候选预测与 Oracle 真实值、统计及 LLM 使用量。继续下一轮时可输入新起点，留空则选本批真实最优；这会将本批送检数据加入历史并重新训练模型。输入 `q` 返回菜单，输入 `0` 退出。也可运行 `python demo.py --backend api` 使用 `.env` 中的真实 LLM 凭据；`--backend auto` 根据配置自动选择。Console 的回退会标注实际后端，不计入正式实验。
 
-`.env`、解压后的原始 CSV、临时实验 `runs/` 不进入 Git。原始 ZIP 可以直接读取，不要求手动解压。
+
 
 ## 数据来源与任务边界
 
